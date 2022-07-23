@@ -12,3 +12,6 @@
 7. [Copy](manipulacion_de_datos_numpy_y_pandas/copy.ipynb)
 8. [Condiciones](manipulacion_de_datos_numpy_y_pandas/condiciones.ipynb)
 9. [Operaciones](manipulacion_de_datos_numpy_y_pandas/operaciones.ipynb)
+      
+**__Pandas:__**
+1. [Series y DataFrames](manipulacion_de_datos_numpy_y_pandas/series_dataframes.ipynb)
