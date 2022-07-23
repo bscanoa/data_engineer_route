@@ -16,3 +16,11 @@
 **__Pandas:__**
 1. [Series y DataFrames](manipulacion_de_datos_numpy_y_pandas/series_dataframes.ipynb)
 2. [Cargando archivos, CSV y JSON. Filtrado con loc e iloc](manipulacion_de_datos_numpy_y_pandas/cargando%20archivos.ipynb)
+3. [Agregando y eliminado datos](manipulacion_de_datos_numpy_y_pandas/agregar_eliminar.ipynb)
+4. [Manejo de nulos](manipulacion_de_datos_numpy_y_pandas/manejo_de_datos_nulos.ipynb)
+5. [Condiciones](manipulacion_de_datos_numpy_y_pandas/condiciones_pandas.ipynb) <!-- Repasar -->
+6. [Funciones principales](manipulacion_de_datos_numpy_y_pandas/funciones_en_pandas.ipynb)
+7. [groupby](manipulacion_de_datos_numpy_y_pandas/uso_de_groupby.ipynb)
+8. [Concat, Merge y Join](manipulacion_de_datos_numpy_y_pandas/concat_merge_join.ipynb) <!--  Repasar  -->
+9. [Pivot y Melt](manipulacion_de_datos_numpy_y_pandas/pivot_melt.ipynb) <!--  Repasar  -->
+10. [Apply](manipulacion_de_datos_numpy_y_pandas/apply.ipynb)
